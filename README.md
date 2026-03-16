@@ -123,25 +123,7 @@ Example:
 model.pkl
 ```
 
-The Streamlit app loads the model and performs predictions based on user input.
 
----
-
-# 📥 Input Features
-
-Example features used in prediction:
-
-| Feature | Description |
-|-------|-------------|
-| Feature 1 | Input parameter |
-| Feature 2 | Input parameter |
-| Feature 3 | Input parameter |
-| Feature 4 | Input parameter |
-
-*(Replace with your dataset features)*
-
-
----
 
 # 📦 Requirements
 
