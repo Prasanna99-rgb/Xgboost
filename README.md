@@ -1,9 +1,6 @@
 # 🏠 California House Price Prediction using Machine Learning
 
-![Python](https://img.shields.io/badge/Python-3.9-blue)
-![Streamlit](https://img.shields.io/badge/Streamlit-WebApp-red)
-![Machine Learning](https://img.shields.io/badge/MachineLearning-XGBoost-green)
-![License](https://img.shields.io/badge/License-MIT-yellow)
+
 
 ---
 
