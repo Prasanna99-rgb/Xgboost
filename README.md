@@ -3,6 +3,11 @@
 🚀 Developed a **Machine Learning web application** to predict housing prices using an advanced regression model and deployed it with an interactive UI.
 
 ---
+## 🚀 Live Demo
+
+👉 *(https://realestatepriceprediction-yjmv94eqkg9c7zzzyqgbdb.streamlit.app/)*
+
+---
 
 ## 📌 Project Summary
 
